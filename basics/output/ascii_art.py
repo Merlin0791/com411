@@ -1,0 +1,7 @@
+print("\n\n \      oo")
+print("  \____|\mm")
+print("  //_//\ \_\\")
+print(" /K-9/  \/_/")
+print("/___/_____\\")
+print("-----------")
+print("\n Hello Doctor")
