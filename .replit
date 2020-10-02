@@ -1,6 +1,3 @@
 language = "python3"
-<<<<<<< HEAD
-run = "python basics/output/multiline_message.py"
-=======
-run = "python basics/output/simple_message.py"
->>>>>>> 33c0dc7d8829ac0bcab0637e543a85a39ccd67d9
+run = "python basics/output/escape_characters.py"
+
