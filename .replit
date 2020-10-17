@@ -1,3 +1,3 @@
 language = "python3"
-run = "python basics/functions/function_with_nesting.py"
+run = "python basics/functions/function_with_loop.py"
 
