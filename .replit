@@ -1,3 +1,7 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python basics/functions/multiple_functions.py"
+=======
+run = "python basics/functions/function_with_loop.py"
+>>>>>>> 6628738da3bdcebf1aeb19c3917eb40d4b0f9690
 
