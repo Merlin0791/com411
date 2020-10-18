@@ -1,3 +1,4 @@
 language = "python3"
-run = "python basics/functions/multiple_functions.py"
+run = "python main.py"
+
 
