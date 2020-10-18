@@ -1,12 +1,3 @@
 language = "python3"
-<<<<<<< HEAD
-run = "python main.py"
 
-=======
-<<<<<<< HEAD
-run = "python basics/functions/multiple_functions.py"
-=======
-run = "python basics/functions/function_with_loop.py"
->>>>>>> 6628738da3bdcebf1aeb19c3917eb40d4b0f9690
->>>>>>> 15f0fd87393b74e966a94cc235ae6653fceb3df3
-
+run = "python basics/modules/guess_the_number.py"
