@@ -1,9 +1,9 @@
 def directions():
   directions_list = ["Move Forwards", "Move Backwards", "Turn Right", "Turn Left"]
-  print(directions_list)
+  return directions_list
 
-def Run():
-  directions()
+def run():
+  print(directions())
 
 
-Run()
+run()
