@@ -1,7 +1,4 @@
 language = "python3"
 
-<<<<<<< HEAD
-run = "python visual/subplots/week_temps.py"
-=======
-run = "python visual/plots/dict.py"
->>>>>>> 9b062347c9c9bbec39cdab8a3f44a0af841ef7d8
+run = "python visual/animations/squares.py"
+
